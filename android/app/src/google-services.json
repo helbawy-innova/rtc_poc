@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "324819752319",
+    "project_id": "rtc-lab",
+    "storage_bucket": "rtc-lab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324819752319:android:c91df8ba3782108e7b764a",
+        "android_client_info": {
+          "package_name": "com.example.rtc_service_poc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmFHX2GvueZmkM6iTmtREhofqsSHAsKI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324819752319:android:f6619517595842da7b764a",
+        "android_client_info": {
+          "package_name": "com.helbawy.rtc_lab"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmFHX2GvueZmkM6iTmtREhofqsSHAsKI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
